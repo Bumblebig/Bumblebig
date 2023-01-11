@@ -10,7 +10,7 @@ Skills: JS🎬 / HTML💀 / CSS🎨
 - 🌱 I’m currently learning Learning Backend (node.js)
 - 📧 [I'm open for collaboration and any volunteers](mailto:dreydare16@gmail.com)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bumblebig) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdurrahman-abdulsalam-820573219) [<img align="left" alt="kojoswic | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](htttps://www.twitter.com/RealCecil4)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bumblebig) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdurrahman-abdulsalam-820573219) [<img align="left" alt="kojoswic | Twitter" height='40' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](htttps://www.twitter.com/RealCecil4)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bumblebig)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bumblebig&show_icons=true)
 
