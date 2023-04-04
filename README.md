@@ -14,6 +14,4 @@ Skills: JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bumblebig)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bumblebig&show_icons=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bumblebig)
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Bumblebig)
