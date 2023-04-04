@@ -4,7 +4,7 @@
 
 I'm Abdurrahman, I am a web developer. I specialise in creating fronend web applications that is responsive, adaptive and cross browser efficient.
 
-Skills: JS🎬 / HTML💀 / CSS🎨
+Skills: JS / HTML / CSS
 
 - 🔭 I’m currently working on a frontend web Bank app called Buzz Bank
 - 🌱 I’m currently learning Learning Backend (node.js)
