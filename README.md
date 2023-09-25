@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Abdurrahman
 
-#### I am a Passionate software engineer with a focus on web development and a love for open source.
+I am a Passionate software engineer with a focus on web development and a love for open source.
 
 <br/>
-Skills: React/ tailwindcss/ html/ css/ javascript/ c/ python/ bash
+Skills: React / Tailwindcss / HTML / CSS / JavaScript / C / Python / Bash / Sass
 
 - 📧 [I'm open to any collaboration](mailto:dreydare16@gmail.com)
 
