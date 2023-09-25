@@ -3,7 +3,7 @@
 #### I am a Passionate software engineer with a focus on web development and a love for open source.
 
 <br/>
-Skills: ![tools](https://skills.thijs.gg/icons?i=react,tailwindcss,html,css,javascript,c,python,bash)
+Skills: React/ tailwindcss/ html/ css/ javascript/ c/ python/ bash
 
 - 📧 [I'm open to any collaboration](mailto:dreydare16@gmail.com)
 
