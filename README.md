@@ -2,12 +2,10 @@
 
 #### I am a Passionate software engineer with a focus on web development and a love for open source.
 
+<br/>
+Skills: ![tools](https://skills.thijs.gg/icons?i=react,tailwindcss,html,css,javascript,c,python,bash,sass)
 
-Skills: React.js / SASS / tailwindCSS / C / Python / JS / HTML / CSS
-
-- 🔭 I’m currently working on a project
-- 🌱 I’m currently learning Learning node.js
-- 📧 [I'm open for collaboration and any volunteers](mailto:dreydare16@gmail.com)
+- 📧 [I'm open to any collaboration](mailto:dreydare16@gmail.com)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bumblebig) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rahlam) [<img align="left" alt="kojoswic | Twitter" height='40' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.twitter.com/RealCecil4)
 
