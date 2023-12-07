@@ -13,6 +13,8 @@ Skills: React / Tailwindcss / HTML / CSS / JavaScript / C / Python / Bash / Sass
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
+![tools](https://skills.thijs.gg/icons?i=react,tailwindcss,html,css,javascript,typescript,vite,firebase,nginx,nodejs,c,python,bash)
+
 - 📧 [I'm open to any collaboration](mailto:dreydare16@gmail.com)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bumblebig) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rahlam) [<img align="left" alt="kojoswic | Twitter" height='40' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.twitter.com/RealCecil4)
