@@ -3,7 +3,10 @@
 I am a Passionate software engineer with a focus on web development and a love for open source.
 
 <br/>
-**Skills:**
+Skills:
+<br/>
+<br/>
+<br/>
 
 ![tools](https://skills.thijs.gg/icons?i=react,tailwindcss,html,css,javascript,vite,firebase,c,python,bash)
 
