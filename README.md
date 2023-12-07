@@ -6,7 +6,12 @@ I am a Passionate software engineer with a focus on web development and a love f
 Skills:
 <br/>
 
-![tools](https://skills.thijs.gg/icons?i=react,tailwindcss,html,css,javascript,vite,firebase,c,python,bash)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwindcss,html,css,javascript,vite,firebase,c,python,bash,sass,git,vim" />
+  </a>
+</p>
+
 
 - 📧 [I'm open to any collaboration](mailto:dreydare16@gmail.com)
 
