@@ -8,7 +8,7 @@ Skills:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwindcss,html,css,javascript,vite,firebase,c,python,bash,sass,git,vim,vercel,webpack,netlify" />
+    <img src="https://skillicons.dev/icons?i=react,tailwindcss,html,css,javascript,vite,firebase,c,python,bash,sass,git,vim,vercel,webpack,netlify,cpp,anaconda,md,npm,regex,wordpress" />
   </a>
 </p>
 
