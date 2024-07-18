@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Abdurrahman
 
-I am a Passionate software engineer with a focus on web development and a love for open source.
+I am a Passionate software engineer with a focus on web development and Artificial Intelligence.
 
 <br/>
 Skills:
