@@ -12,8 +12,7 @@ Skills:
   </a>
 </p>
 
-
-- 📧 [I'm open to any collaboration](mailto:dreydare16@gmail.com)
+## Stats
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bumblebig) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rahlam) [<img align="left" alt="kojoswic | Twitter" height='40' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.twitter.com/RealCecil4)
 
