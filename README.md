@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Abdurrahman
 
-I am a Passionate software engineer with a focus on web development and Artificial Intelligence.
+I am a tech enthusiast with a focus on software engineering and Artificial Intelligence.
 
 <br/>
 Skills:
